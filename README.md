@@ -1,0 +1,2 @@
+# earnsmart
+ EarnSmart rewards website
